@@ -1,0 +1,12 @@
+.DS_Store
+.idea/
+.vscode/
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+
+# Datasets are downloaded separately.
+data/*
+!data/README.md
